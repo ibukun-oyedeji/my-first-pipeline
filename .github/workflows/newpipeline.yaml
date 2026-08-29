@@ -26,6 +26,7 @@ jobs:
 
       - run: pytest -v
         # runs on ALL branches
+        # Practical with Jo
 
   deploy:
     runs-on: ubuntu-latest
