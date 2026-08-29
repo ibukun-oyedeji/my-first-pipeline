@@ -27,3 +27,4 @@ jobs:
       - name: Run all tests
         run: pytest test_calculator.py -v
         # -v means verbose -- print each test name as it runs
+        # trydevops cohort 2
